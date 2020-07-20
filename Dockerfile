@@ -1,3 +1,6 @@
+
+# Fix einfügen über einen Hotfixbranch
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
